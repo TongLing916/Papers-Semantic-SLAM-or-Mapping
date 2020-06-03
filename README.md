@@ -30,6 +30,8 @@
 
 - Hosseinzadeh, Mehdi, et al. "__Real-time monocular object-model aware sparse SLAM__." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019. [[Paper](https://arxiv.org/pdf/1809.09149.pdf)]
 
+- H. Liang, N. J. Sanket, C. Fermüller and Y. Aloimonos, "__SalientDSO: Bringing Attention to Direct Sparse Odometry__," in IEEE Transactions on Automation Science and Engineering, vol. 16, no. 4, pp. 1619-1626, Oct. 2019, doi: 10.1109/TASE.2019.2900980. [[Paper](https://arxiv.org/pdf/1803.00127.pdf)]
+
 - Liu, Yu, et al. "__Global Localization with Object-Level Semantics and Topology__." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019. [[Paper](https://ieeexplore.ieee.org/abstract/document/8794475)]
 
 - Ok, Kyel, et al. "__Robust Object-based SLAM for High-speed Autonomous Navigation__." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019. [[Paper](https://groups.csail.mit.edu/rrg/papers/OkLiu19icra.pdf)]
@@ -60,6 +62,8 @@
 
 - Schönberger, Johannes L., et al. "__Semantic visual localization__." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Schonberger_Semantic_Visual_Localization_CVPR_2018_paper.pdf)]
 
+- E. Stenborg, C. Toft and L. Hammarstrand, "__Long-Term Visual Localization Using Semantically Segmented Images__," 2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, QLD, 2018, pp. 6484-6490, doi: 10.1109/ICRA.2018.8463150. [[Paper](https://arxiv.org/pdf/1801.05269.pdf)]
+
 - Yu, Chao, et al. "__DS-SLAM: A semantic visual SLAM towards dynamic environments__." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018. [[Paper](https://arxiv.org/pdf/1809.08379.pdf)][[Code](https://github.com/ivipsourcecode/DS-SLAM)]
 
 - Yu, H. W., and Beom Hee Lee. "__A variational feature encoding method of 3d object for probabilistic semantic slam__." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018. [[Paper](https://arxiv.org/pdf/1808.10180.pdf)]
@@ -71,15 +75,23 @@
 
 - Czarnowski, Jan, Stefan Leutenegger, and Andrew J. Davison. "__Semantic texture for robust dense tracking__." Proceedings of the IEEE International Conference on Computer Vision Workshops. 2017. [[Paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Czarnowski_Semantic_Texture_for_ICCV_2017_paper.pdf)]
 
+- Sucar, Edgar, and Jean-Bernard Hayet. “__Probabilistic Global Scale Estimation for MonoSLAM Based on Generic Object Detection__.” 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017, pp. 988–996. [[Paper](https://arxiv.org/pdf/1705.09860.pdf)]
+
 - Toft, Carl, Carl Olsson, and Fredrik Kahl. "__Long-term 3d localization and pose from semantic labellings__." Proceedings of the IEEE International Conference on Computer Vision Workshops. 2017. [[Paper](http://www2.maths.lth.se/matematiklth/vision/publdb/reports/pdf/toft-etal-iccv-2017.pdf)]
 
 ### 2016
+
+- D. P. Frost, O. Kähler and D. W. Murray, "__Object-aware bundle adjustment for correcting monocular scale drift__," 2016 IEEE International Conference on Robotics and Automation (ICRA), Stockholm, 2016, pp. 4770-4776, doi: 10.1109/ICRA.2016.7487680. [[Paper](http://www.robots.ox.ac.uk/~olaf/bib/frost16scaledrift.pdf)]
 
 - Gálvez-López, Dorian, et al. "__Real-time monocular object slam__." Robotics and Autonomous Systems 75 (2016): 435-449. [[Paper](https://arxiv.org/pdf/1504.02398.pdf)]
 
 - Martínez-Gómez, Jesus, et al. "__Semantic localization in the PCL library__." Robotics and Autonomous Systems 75 (2016): 641-648. [[Paper](https://arxiv.org/pdf/1601.08158.pdf)]
 
 - Yang, Shichao, et al. "__Pop-up slam: Semantic monocular plane slam for low-texture environments__." 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2016. [[Paper](https://shichaoy.github.io/Publications/iros_2016_popslam.pdf)][[Code](https://github.com/shichaoy/pop_up_slam)]
+
+### 2015
+
+- N. D. Reddy, P. Singhal, V. Chari and K. M. Krishna, "__Dynamic body VSLAM with semantic constraints__," 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hamburg, 2015, pp. 1897-1904, doi: 10.1109/IROS.2015.7353626. [[Paper](https://arxiv.org/pdf/1504.07269.pdf)]
 
 ### 2013
 
@@ -125,11 +137,15 @@
 
 - Nakajima, Yoshikatsu, et al. "__Fast and accurate semantic mapping through geometric-based incremental segmentation__." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018. [[Paper](http://hvrl.ics.keio.ac.jp/paper/pdf/international_Conference/2018/IROS2018_Nakajima.pdf)]
 
+- M. Runz, M. Buffier and L. Agapito, "__MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects__," 2018 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Munich, Germany, 2018, pp. 10-20, doi: 10.1109/ISMAR.2018.00024. [[Paper](http://visual.cs.ucl.ac.uk/pubs/maskfusion/ismar2018_maskfusion_web.pdf)][[Code](https://github.com/martinruenz/maskfusion)]
+
 - Sun, Li, et al. "__Recurrent-octomap: Learning state-based map refinement for long-term semantic mapping with 3-d-lidar data__." IEEE Robotics and Automation Letters 3.4 (2018): 3749-3756. [[Paper](https://arxiv.org/pdf/1807.00925.pdf)]
 
 - Zeng, Zhen, et al. "__Semantic Mapping with Simultaneous Object Detection and Localization__." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018. [[Paper](https://arxiv.org/pdf/1810.11525.pdf)]
 
 ### 2017
+
+- X. Li, H. Ao, R. Belaroussi and D. Gruyer, "__Fast semi-dense 3D semantic mapping with monocular visual SLAM__," 2017 IEEE 20th International Conference on Intelligent Transportation Systems (ITSC), Yokohama, 2017, pp. 385-390, doi: 10.1109/ITSC.2017.8317942. [[Paper](https://arxiv.org/pdf/1611.04144.pdf)]
 
 - Ma, Lingni, et al. "__Multi-view deep learning for consistent semantic mapping with rgb-d cameras__." 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2017. [[Paper](https://arxiv.org/pdf/1703.08866.pdf)]
 
@@ -143,10 +159,21 @@
 
 - Savinov, Nikolay, et al. "__Semantic 3d reconstruction with continuous regularization and ray potentials using a visibility consistency constraint__." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Savinov_Semantic_3D_Reconstruction_CVPR_2016_paper.pdf)]
 
+- Zhe Zhao and Xiaoping Chen. 2016. __Building 3D semantic maps for mobile robots using RGB-D camera__. Intell. Serv. Robot. 9, 4 (October   2016), 297–309. DOI:https://doi.org/10.1007/s11370-016-0201-x [[Paper](https://link.springer.com/article/10.1007%2Fs11370-016-0201-x)]
+
 ### 2015
 
 - Savinov, Nikolay, et al. "__Discrete optimization of ray potentials for semantic 3d reconstruction__." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [[Paper](http://people.inf.ethz.ch/ladickyl/ray_cvpr15.pdf)]
 
+- S. Sengupta and P. Sturgess, "__Semantic octree: Unifying recognition, reconstruction and representation via an octree constrained higher order MRF__," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 1874-1879, doi: 10.1109/ICRA.2015.7139442. [[Paper](https://ieeexplore.ieee.org/document/7139442)]
+
+- V. Vineet et al., "__Incremental dense semantic stereo fusion for large-scale semantic scene reconstruction__," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 75-82, doi: 10.1109/ICRA.2015.7138983. [[Paper](http://www.robots.ox.ac.uk/~tvg/publications/2015/dssfpaper.pdf)]
+
+
 ### 2013
 
 - Häne, Christian, et al. "__Joint 3D scene reconstruction and class segmentation__." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2013. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Hane_Joint_3D_Scene_2013_CVPR_paper.pdf)]
+
+- J. P. C. Valentin, S. Sengupta, J. Warrell, A. Shahrokni and P. H. S. Torr, "__Mesh Based Semantic Modelling for Indoor and Outdoor Scenes__," 2013 IEEE Conference on Computer Vision and Pattern Recognition, Portland, OR, 2013, pp. 2067-2074, doi: 10.1109/CVPR.2013.269. [[Paper](http://www.robots.ox.ac.uk/~tvg/publications/2013/MeshCVPR13.pdf)]
+
+- S. Sengupta, E. Greveson, A. Shahrokni and P. H. S. Torr, "__Urban 3D semantic modelling using stereo vision__," 2013 IEEE International Conference on Robotics and Automation, Karlsruhe, 2013, pp. 580-585, doi: 10.1109/ICRA.2013.6630632. [[Paper](http://www.robots.ox.ac.uk/~phst/Papers/2013/ICRA2013_1807.pdf)]
