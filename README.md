@@ -16,6 +16,8 @@
 
 - Hoang, Dinh-Cuong, Achim J. Lilienthal, and Todor Stoyanov. "[Panoptic 3D Mapping and Object Pose Estimation Using Adaptively Weighted Semantic Information](https://ieeexplore.ieee.org/document/8977356)." IEEE Robotics and Automation Letters 5.2 (2020): 1962-1969.
 
+- Huang, Jiahui, et al. "[ClusterVO: Clustering Moving Instances and Estimating Visual Odometry for Self and Surroundings](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_ClusterVO_Clustering_Moving_Instances_and_Estimating_Visual_Odometry_for_Self_CVPR_2020_paper.pdf)." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+
 - Qin, Tong, et al. "[AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot](https://arxiv.org/pdf/2007.01813)." IROS (2020). 
 
 - Wu, Yanmin, et al. "[EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association](https://arxiv.org/pdf/2004.12730.pdf)." arXiv preprint arXiv:2004.12730 (2020). [[Code](https://github.com/yanmin-wu/EAO-SLAM)]
@@ -25,6 +27,8 @@
 - Sheng, Chao, et al. "[Dynamic-DSO: Direct Sparse Odometry Using Objects Semantic Information for Dynamic Environments](https://www.mdpi.com/2076-3417/10/4/1467/pdf)," Applied Sciences, vol. 10, no. 4, Art. no. 4, Jan. 2020.
 
 - Singh, Gaurav, Meiqing Wu, and Siew-Kei Lam. "[Fusing Semantics and Motion State Detection for Robust Visual SLAM](http://openaccess.thecvf.com/content_WACV_2020/html/Singh_Fusing_Semantics_and_Motion_State_Detection_for_Robust_Visual_SLAM_WACV_2020_paper.html)," in The IEEE Winter Conference on Applications of Computer Vision, 2020, pp. 2764–2773, Accessed: May 19, 2020.
+
+- Zhang, Jun, et al. "[VDO-SLAM: A Visual Dynamic Object-aware SLAM System](https://arxiv.org/pdf/2005.11052.pdf)." arXiv preprint arXiv:2005.11052 (2020).
 
 - Zhou, Qunjie, et al. "[To Learn or Not to Learn: Visual Localization from Essential Matrices](http://arxiv.org/abs/1908.01293)," IEEE Intl. Conf. on Robotics and Automation (ICRA) 2020. [[Code](https://github.com/GrumpyZhou/visloc-relapose)]
 
@@ -55,6 +59,9 @@
 - Shariati, Armon, Bernd Pfrommer, and Camillo J. Taylor. "[Simultaneous Localization and Layout Model Selection in Manhattan Worlds](https://arxiv.org/pdf/1809.04135.pdf)." IEEE Robotics and Automation Letters 4.2 (2019): 950-957.
 
 - Shi, Tianxin, et al. "[Visual Localization Using Sparse Semantic 3D Map](https://arxiv.org/pdf/1904.03803)." 2019 IEEE International Conference on Image Processing (ICIP). IEEE, 2019.
+
+
+- Strecke, Michael, and Stückler, Jörg. "[EM-Fusion: Dynamic Object-Level SLAM With Probabilistic Data Association](https://openaccess.thecvf.com/content_ICCV_2019/papers/Strecke_EM-Fusion_Dynamic_Object-Level_SLAM_With_Probabilistic_Data_Association_ICCV_2019_paper.pdf),"  Proceedings of the IEEE International Conference on Computer Vision. 2019.
 
 - Yang, Shichao, and Sebastian Scherer. "[CubeSLAM: Monocular 3D Object SLAM](https://shichaoy.github.io/Publications/tro_2019_object.pdf)." IEEE Transactions on Robotics 35.4 (2019): 925-938. [[Code](https://github.com/shichaoy/cube_slam)]
 
@@ -151,7 +158,6 @@
 - Grinvald, Margarita, et al. "[Volumetric Instance-Aware Semantic Mapping and 3D Object Discovery](http://jenjenchung.github.io/anthropomorphic/Papers/Grinvald2019volumetric.pdf)." International Conference on Robotics and Automation, vol. 4, no. 3, 2019, pp. 3037–3044.
 
 - Hiller, Markus, et al. "[Learning Topometric Semantic Maps from Occupancy Grids](https://arxiv.org/pdf/2001.03676.pdf)." 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, pp. 4190–4197.
-
 
 - Li, Jimmy, David Meger, and Gregory Dudek. "[Semantic Mapping for View-Invariant Relocalization](http://www.cim.mcgill.ca/~jimmyli/pubs/li2019icra.pdf)." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
 - Narita, Gaku, et al. "[PanopticFusion: Online Volumetric Semantic Mapping at the Level of Stuff and Things](https://arxiv.org/pdf/1903.01177.pdf)." 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, pp. 4205–4212.
