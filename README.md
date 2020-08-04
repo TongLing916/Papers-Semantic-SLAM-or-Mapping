@@ -16,7 +16,7 @@
 
 - Hoang, Dinh-Cuong, Achim J. Lilienthal, and Todor Stoyanov. "[Panoptic 3D Mapping and Object Pose Estimation Using Adaptively Weighted Semantic Information](https://ieeexplore.ieee.org/document/8977356)." IEEE Robotics and Automation Letters 5.2 (2020): 1962-1969.
 
-- Huang, Jiahui, et al. "[ClusterVO: Clustering Moving Instances and Estimating Visual Odometry for Self and Surroundings](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_ClusterVO_Clustering_Moving_Instances_and_Estimating_Visual_Odometry_for_Self_CVPR_2020_paper.pdf)." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+- Huang, Jiahui, et al. "[ClusterVO: Clustering Moving Instances and Estimating Visual Odometry for Self and Surroundings](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_ClusterVO_Clustering_Moving_Instances_and_Estimating_Visual_Odometry_for_Self_CVPR_2020_paper.pdf)." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [[Code](https://cg.cs.tsinghua.edu.cn/people/~huangjh/page/clustervo)]
 
 - Qin, Tong, et al. "[AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot](https://arxiv.org/pdf/2007.01813)." IROS (2020). 
 
@@ -81,7 +81,7 @@
 
 - Li, Peiliang, and Tong Qin. "[Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving](https://arxiv.org/pdf/1807.02062.pdf)." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
-- Nicholson, Lachlan, et al. "[QuadricSLAM: Dual Quadrics From Object Detections as Landmarks in Object-Oriented SLAM](https://arxiv.org/pdf/1804.04011.pdf)." IEEE Robotics and Automation Letters, vol. 4, no. 1, 2019, pp. 1–8.
+- Nicholson, Lachlan, et al. "[QuadricSLAM: Dual Quadrics From Object Detections as Landmarks in Object-Oriented SLAM](https://arxiv.org/pdf/1804.04011.pdf)." IEEE Robotics and Automation Letters, vol. 4, no. 1, 2018, pp. 1–8.
 
 - Parisotto, Emilio, et al. "[Global Pose Estimation with an Attention-Based Recurrent Network](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/Parisotto_Global_Pose_Estimation_CVPR_2018_paper.pdf)." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018.
 
@@ -121,6 +121,8 @@
 - Li, Xuanpeng, and Rachid Belaroussi. "[Semi-Dense 3D Semantic Mapping from Monocular SLAM](https://arxiv.org/pdf/1611.04144.pdf)." arXiv preprint arXiv:1611.04144 (2016).
 
 - Martínez-Gómez, Jesus, et al. "[Semantic localization in the PCL library](https://arxiv.org/pdf/1601.08158.pdf)." Robotics and Autonomous Systems 75 (2016): 641-648.
+
+- Mu, Beipeng, et al. "[SLAM with Objects using a Nonparametric Pose Graph](https://arxiv.org/pdf/1704.05959.pdf)." 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2016.
 
 - Yang, Shichao, et al. "[Pop-up SLAM: Semantic Monocular Plane SLAM for Low-texture Environments](https://shichaoy.github.io/Publications/iros_2016_popslam.pdf)." 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2016. [[Code](https://github.com/shichaoy/pop_up_slam)]
 
