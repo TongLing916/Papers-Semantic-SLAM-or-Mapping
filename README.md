@@ -5,6 +5,8 @@
 ### Survey
 
 - Xia, Linlin, et al. "[A survey of image semantics-based visual simultaneous localization and mapping: Application-oriented solutions to autonomous navigation of mobile robots](https://journals.sagepub.com/doi/pdf/10.1177/1729881420919185)." International Journal of Advanced Robotic Systems 17.3 (2020): 1729881420919185.
+  
+- Sualeh, Muhammad, and Gon-Woo Kim. "[Simultaneous localization and mapping in the epoch of semantics: a survey](https://link.springer.com/article/10.1007/s12555-018-0130-x)." International Journal of Control, Automation and Systems 17.3 (2019): 729-742.
 
 ### 2020
 
@@ -43,6 +45,8 @@
 - Frey, Kristoffer M., Ted J. Steiner, and Jonathan P. How. "[Efficient Constellation-Based Map-Merging for Semantic SLAM](https://arxiv.org/pdf/1809.09646.pdf)." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
 
 - Ganti, Pranav, and Steven Waslander. "[Network Uncertainty Informed Semantic Feature Selection for Visual SLAM](https://arxiv.org/pdf/1811.11946.pdf)." 2019 16th Conference on Computer and Robot Vision (CRV). IEEE, 2019. [[Code](https://github.com/navganti/SIVO)]
+
+- Garg, Sourav, Niko Suenderhauf, and Michael Milford. "[Semantic–geometric visual place recognition: a new perspective for reconciling opposing views](https://www.researchgate.net/profile/Sourav_Garg/publication/332280264_Semantic-geometric_visual_place_recognition_a_new_perspective_for_reconciling_opposing_views/links/5e8ec0ed4585150839cad2a0/Semantic-geometric-visual-place-recognition-a-new-perspective-for-reconciling-opposing-views.pdf)." The International Journal of Robotics Research (2019): 0278364919839761.
 
 - Hosseinzadeh, Mehdi, et al. "[Real-time monocular object-model aware sparse SLAM](https://arxiv.org/pdf/1809.09149.pdf)." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
 
