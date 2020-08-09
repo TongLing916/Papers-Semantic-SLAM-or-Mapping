@@ -64,8 +64,9 @@
 
 - Shi, Tianxin, et al. "[Visual Localization Using Sparse Semantic 3D Map](https://arxiv.org/pdf/1904.03803)." 2019 IEEE International Conference on Image Processing (ICIP). IEEE, 2019.
 
-
 - Strecke, Michael, and Stückler, Jörg. "[EM-Fusion: Dynamic Object-Level SLAM With Probabilistic Data Association](https://openaccess.thecvf.com/content_ICCV_2019/papers/Strecke_EM-Fusion_Dynamic_Object-Level_SLAM_With_Probabilistic_Data_Association_ICCV_2019_paper.pdf),"  Proceedings of the IEEE International Conference on Computer Vision. 2019.
+
+- Xu, Binbin, et al. "[MID-Fusion: Octree-based object-level multi-instance dynamic SLAM](https://arxiv.org/pdf/1812.07976.pdf)." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
 
 - Yang, Shichao, and Sebastian Scherer. "[CubeSLAM: Monocular 3D Object SLAM](https://shichaoy.github.io/Publications/tro_2019_object.pdf)." IEEE Transactions on Robotics 35.4 (2019): 925-938. [[Code](https://github.com/shichaoy/cube_slam)]
 
@@ -84,6 +85,8 @@
 - Lianos, Konstantinos-Nektarios, et al. "[VSO: Visual Semantic Odometry](http://openaccess.thecvf.com/content_ECCV_2018/papers/Konstantinos-Nektarios_Lianos_VSO_Visual_Semantic_ECCV_2018_paper.pdf)." Proceedings of the European conference on computer vision (ECCV). 2018. [[Supplementary](https://demuc.de/papers/lianos2018vso_supp.pdf)]
 
 - Li, Peiliang, and Tong Qin. "[Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving](https://arxiv.org/pdf/1807.02062.pdf)." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+
+- McCormac, John, et al. "[Fusion++: Volumetric Object-Level SLAM](https://www.doc.ic.ac.uk/~sleutene/publications/fusion_plusplus_3dv_camera_ready.pdf)." 2018 international conference on 3D vision (3DV). IEEE, 2018.
 
 - Nicholson, Lachlan, et al. "[QuadricSLAM: Dual Quadrics From Object Detections as Landmarks in Object-Oriented SLAM](https://arxiv.org/pdf/1804.04011.pdf)." IEEE Robotics and Automation Letters, vol. 4, no. 1, 2018, pp. 1–8.
 
@@ -198,6 +201,8 @@
 
 - Romanoni, Andrea, et al. "[Multi-view Stereo with Single-View Semantic Mesh Refinement](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w13/Romanoni_Multi-View_Stereo_with_ICCV_2017_paper.pdf)." Proceedings of the IEEE International Conference on Computer Vision Workshops. 2017.
 
+- Sünderhauf, Niko, et al. "[Meaningful maps with object-oriented semantic mapping](https://arxiv.org/pdf/1609.07849)." 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2017.
+
 - Yang, Shichao, Yulan Huang, and Sebastian Scherer. "[Semantic 3D Occupancy Mapping through Efficient High Order CRFs](https://arxiv.org/pdf/1707.07388.pdf)." 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2017. [[Code](https://github.com/shichaoy/semantic_3d_mapping)]
 
 ### 2016
@@ -219,6 +224,8 @@
 - Savinov, Nikolay, et al. "[Discrete Optimization of Ray Potentials for Semantic 3D Reconstruction](http://people.inf.ethz.ch/ladickyl/ray_cvpr15.pdf)." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.
 
 - Sengupta, Sunando, and Sturgess, Paul, "[Semantic Octree: Unifying Recognition, Reconstruction and Representation via an Octree Constrained Higher Order MRF](https://ieeexplore.ieee.org/document/7139442)," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 1874-1879, doi: 10.1109/ICRA.2015.7139442.
+
+- Stückler, Jörg, et al. "[Dense real-time mapping of object-class semantics from RGB-D video](http://www.ais.uni-bonn.de/papers/JRTIP_2014_Stueckler_RT_SemanticSLAM.pdf)." Journal of Real-Time Image Processing 10.4 (2015): 599-609.
 
 - Vineet, Vibhav, et al. "[Incremental Dense Semantic Stereo Fusion for Large-Scale Semantic Scene Reconstruction](http://www.robots.ox.ac.uk/~tvg/publications/2015/dssfpaper.pdf)," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 75-82, doi: 10.1109/ICRA.2015.7138983.
 
