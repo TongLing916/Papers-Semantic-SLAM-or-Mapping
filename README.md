@@ -52,7 +52,7 @@
 
 - H. Liang, N. J. Sanket, C. Fermüller and Y. Aloimonos, "[SalientDSO: Bringing Attention to Direct Sparse Odometry](https://arxiv.org/pdf/1803.00127.pdf)," in IEEE Transactions on Automation Science and Engineering, vol. 16, no. 4, pp. 1619-1626, Oct. 2019, doi: 10.1109/TASE.2019.2900980.
 
-- Larsson, Mans, et al. "[Fine-Grained Segmentation Networks: Self-Supervised Segmentation for Improved Long-Term Visual Localization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Larsson_Fine-Grained_Segmentation_Networks_Self-Supervised_Segmentation_for_Improved_Long-Term_Visual_Localization_ICCV_2019_paper.pdf)." Proceedings of the IEEE International Conference on Computer Vision. 2019.
+- Larsson, Mans, et al. "[Fine-Grained Segmentation Networks: Self-Supervised Segmentation for Improved Long-Term Visual Localization](https://openaccess.thecvf.com/content_ICCV_2019/papers/Larsson_Fine-Grained_Segmentation_Networks_Self-Supervised_Segmentation_for_Improved_Long-Term_Visual_Localization_ICCV_2019_paper.pdf)." Proceedings of the IEEE International Conference on Computer Vision. 2019. [[Code](https://github.com/maunzzz/fine-grained-segmentation-networks)]
 
 - Liu, Yu, et al. "[Global Localization with Object-Level Semantics and Topology](https://ieeexplore.ieee.org/abstract/document/8794475)." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
 
