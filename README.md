@@ -28,6 +28,8 @@
 
 - Sheng, Chao, et al. "[Dynamic-DSO: Direct Sparse Odometry Using Objects Semantic Information for Dynamic Environments](https://www.mdpi.com/2076-3417/10/4/1467/pdf)," Applied Sciences, vol. 10, no. 4, Art. no. 4, Jan. 2020.
 
+- Shi, Tianxin, et al. "[Dense Semantic 3D Map Based Long-Term Visual Localization with Hybrid Features](https://arxiv.org/pdf/2005.10766.pdf)." arXiv preprint arXiv:2005.10766 (2020).
+
 - Singh, Gaurav, Meiqing Wu, and Siew-Kei Lam. "[Fusing Semantics and Motion State Detection for Robust Visual SLAM](http://openaccess.thecvf.com/content_WACV_2020/html/Singh_Fusing_Semantics_and_Motion_State_Detection_for_Robust_Visual_SLAM_WACV_2020_paper.html)," in The IEEE Winter Conference on Applications of Computer Vision, 2020, pp. 2764–2773, Accessed: May 19, 2020.
 
 - Zhang, Jun, et al. "[VDO-SLAM: A Visual Dynamic Object-aware SLAM System](https://arxiv.org/pdf/2005.11052.pdf)." arXiv preprint arXiv:2005.11052 (2020).
